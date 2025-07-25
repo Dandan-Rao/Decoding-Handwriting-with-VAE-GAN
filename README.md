@@ -1,7 +1,7 @@
 ## Dataset: MNIST hand written digits
 ## Models: VAE or GANs
 ## Target:
-1. Combine VAE and classification model, can the system identify 10 patent spaces corresponding to each hand-write digit without any human label? If this is the case, then the VAE model has the potential to decode objects without or with little previous human knowledge. For example, we can decode animal language, animal behavior pattern, ancient language, and so on.
+1. Combine VAE and classification model, can the system identify 10 latent spaces corresponding to each hand-write digit without any human label? If this is the case, then the VAE model has the potential to decode objects without or with little previous human knowledge. For example, we can decode animal language, animal behavior pattern, ancient language, and so on.
 
 2. Use VAE and GANs to generate new pictures of hand-write digits.
 
