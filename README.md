@@ -1,3 +1,8 @@
+The Generative AI, Variational Autoencoders (VAEs), learn a latent space representation of unlabeled data, where different regions in the latent space correspond to different data categories. I explored whether this latent space could be classified to decode unknown patterns — such as non-human languages (e.g., alien communication)
+
+To test this idea, I completed a project using VAEs to decode handwritten digits without labels, followed by applying a classifier to identify clusters in the latent space. The results supported my hypothesis.
+
+
 ## Dataset: MNIST hand written digits
 ## Models: VAE or GANs
 ## Target:
